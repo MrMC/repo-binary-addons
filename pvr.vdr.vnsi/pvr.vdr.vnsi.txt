@@ -1,1 +1,1 @@
-pvr.vdr.vnsi https://github.com/kodi-pvr/pvr.vdr.vnsi Jarvis
+pvr.vdr.vnsi https://github.com/mrmc/pvr.vdr.vnsi mrmc-jarvis-16.0

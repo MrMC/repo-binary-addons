@@ -1,1 +1,1 @@
-pvr.mediaportal.tvserver https://github.com/kodi-pvr/pvr.mediaportal.tvserver Jarvis
+pvr.mediaportal.tvserver https://github.com/mrmc/pvr.mediaportal.tvserver mrmc-jarvis-16.0

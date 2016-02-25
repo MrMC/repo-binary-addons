@@ -1,1 +1,1 @@
-pvr.filmon https://github.com/kodi-pvr/pvr.filmon Jarvis
+pvr.filmon https://github.com/mrmc/pvr.filmon mrmc-jarvis-16.0

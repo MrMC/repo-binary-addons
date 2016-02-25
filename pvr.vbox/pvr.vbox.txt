@@ -1,1 +1,1 @@
-pvr.vbox https://github.com/kodi-pvr/pvr.vbox Jarvis
+pvr.vbox https://github.com/mrmc/pvr.vbox mrmc-jarvis-16.0

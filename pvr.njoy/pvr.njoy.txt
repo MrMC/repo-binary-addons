@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy Jarvis
+pvr.njoy https://github.com/mrmc/pvr.njoy mrmc-jarvis-16.0

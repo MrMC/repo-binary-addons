@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Jarvis
+pvr.hts https://github.com/mrmc/pvr.hts mrmc-jarvis-16.0

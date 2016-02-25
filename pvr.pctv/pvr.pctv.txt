@@ -1,1 +1,1 @@
-pvr.pctv https://github.com/kodi-pvr/pvr.pctv Jarvis
+pvr.pctv https://github.com/mrmc/pvr.pctv mrmc-jarvis-16.0

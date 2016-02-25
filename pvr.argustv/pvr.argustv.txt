@@ -1,1 +1,1 @@
-pvr.argustv https://github.com/kodi-pvr/pvr.argustv Jarvis
+pvr.argustv https://github.com/mrmc/pvr.argustv mrmc-jarvis-16.0

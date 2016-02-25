@@ -1,1 +1,1 @@
-pvr.mythtv https://github.com/kodi-pvr/pvr.mythtv Jarvis
+pvr.mythtv https://github.com/mrmc/pvr.mythtv mrmc-jarvis-16.0

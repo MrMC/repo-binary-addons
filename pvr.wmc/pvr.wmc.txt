@@ -1,1 +1,1 @@
-pvr.wmc https://github.com/kodi-pvr/pvr.wmc Jarvis
+pvr.wmc https://github.com/mrmc/pvr.wmc mrmc-jarvis-16.0

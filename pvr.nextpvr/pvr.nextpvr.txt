@@ -1,1 +1,1 @@
-pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Jarvis
+pvr.nextpvr https://github.com/mrmc/pvr.nextpvr mrmc-jarvis-16.0
