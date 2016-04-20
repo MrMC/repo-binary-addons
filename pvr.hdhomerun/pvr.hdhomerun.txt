@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/mrmc/pvr.hdhomerun mrmc-jarvis-16.0
+pvr.hdhomerun https://github.com/mrmc/pvr.hdhomerun mrmc-jarvis-16.0-1
