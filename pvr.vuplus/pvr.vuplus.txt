@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/mrmc/pvr.vuplus mrmc-jarvis-16.0
+pvr.vuplus https://github.com/mrmc/pvr.vuplus mrmc-jarvis-16.1
