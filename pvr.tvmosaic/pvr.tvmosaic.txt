@@ -1,1 +1,2 @@
-pvr.tvmosaic https://github.com/amet/pvr.tvmosaic master
+pvr.tvmosaic https://github.com/MrMC/pvr.tvmosaic master
+
